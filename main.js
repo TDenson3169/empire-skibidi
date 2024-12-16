@@ -1,4 +1,4 @@
-let cities = 9000000;
+let cities = 90000000000000000000000000;
 let cps = 0;
 
 console.log('[Here to cheat arent you?]')
